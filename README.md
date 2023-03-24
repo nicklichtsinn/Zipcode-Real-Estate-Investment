@@ -6,6 +6,8 @@ Choosing where to invest money is crucial for long term success and financial st
 
 This project will use time series forecasting models created with Python to determine the three zip codes that are the best investment opportunity for a Real Estate Investment Trust. 
 
+I completed an initial data analysis on four Arkansas metro areas: Hot Springs, Little Rock, Fayetteville, and Searcy from 1997 to the present before using various models to assess the best zip codes for real estate investment.
+
 ## Analysis
 
 First I read in the dataframe with zillow data on average home value by zipcode over the last 20 years. 
